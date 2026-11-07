@@ -1,5 +1,5 @@
 Name:		python-comfyui-workflow-templates-json
-Version:	0.1.127
+Version:	0.1.129
 Release:	1
 Summary:	Workflow template JSON for ComfyUI
 License:	MIT
